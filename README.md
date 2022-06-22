@@ -1,1 +1,1 @@
-# WeLandingPage
+# WedLandingPage
